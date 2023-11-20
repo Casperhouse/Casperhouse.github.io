@@ -61,7 +61,7 @@
             
     
     
-<button type="button">Click Me!</button>
+<a href="Upload.html">Upload Filez</a>
 
 </body> </html>
 
