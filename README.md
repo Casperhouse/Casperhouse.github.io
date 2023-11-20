@@ -54,10 +54,17 @@
     <img src="https://th.bing.com/th?id=OIP.5-hLeijT1xCxJGRrkBETtQHaE8&w=305&h=204&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2"
     width="350">
     <p>Isn't it just adorable?</p>
+
+    
+
+    
             
     
     
-</body>
-</html>
+<button type="button">Click Me!</button>
 
-<strong><h1>Thanks to khan  academy for all the knowledge on how to make this site.</h1></strong>
+</body> </html>
+
+
+
+
