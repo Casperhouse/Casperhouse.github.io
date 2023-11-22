@@ -50,7 +50,7 @@ body {
 
     <h2>Please select one of the currently available pages.</h2>
 
-    <a Class="link" href="Just do it.html">Unground</a> <div><a class="link"href="rabbits.html">Rabbits</a><div><a class="link"href="Why.html">Why i made this site.</a></div></div>
+    <a Class="link" href="Just do it.html">Unground</a> <div><a class="link" href="rabbits.html">Rabbits</a><div><a class="link" href="Why.html">Why i made this site.</a></div></div>
 
 
 
