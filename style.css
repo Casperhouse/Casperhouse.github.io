@@ -1,0 +1,20 @@
+body  {
+    background-color:Lightslategray;
+
+}
+h1 {
+    color:red;
+    font-size:100px;
+}
+.continue:hover {
+ color:blue;
+ background-color:aqua;
+}
+
+.continue:active {
+    color:Red;
+    background-color:orange;
+}
+.continue {
+    font-size:50px;
+}
