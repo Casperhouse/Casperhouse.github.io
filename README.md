@@ -49,7 +49,7 @@ body {
 
     <h2>Please select one of the currently available pages.</h2>
 
-     <a class="link" href="rabbits.html">Rabbits</a><div><a class="link" href="Why.html">Why i made this site.</a><div><a class="link" href="https://casperhouse.github.io/2023-christmas-list">Christmas list</a></div></div>
+     <a class="link" href="rabbits.html">Rabbits</a><div><a class="link" href="Why.html">Why i made this site.</a><div><a class="link" href="https://casperhouse.github.io/2023-christmas-list">Christmas list</a><div><a class="link" href="Warning.html">Malware</a></div></div></div>
 
 
 
