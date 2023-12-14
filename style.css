@@ -18,3 +18,7 @@ h1 {
 .continue {
     font-size:50px;
 }
+.not {
+color:red;
+    background-color:orange;
+}
